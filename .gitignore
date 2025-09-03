@@ -10,6 +10,7 @@ __pycache__/
 .vscode
 .vs
 *.bat
+
 # To ignore all node_modules folders
 **/node_modules/
 
