@@ -6,6 +6,13 @@ __pycache__/
 # C extensions
 *.so
 
+# VS Modules
+.vscode
+.vs
+*.bat
+# To ignore all node_modules folders
+**/node_modules/
+
 # Distribution / packaging
 .Python
 build/
